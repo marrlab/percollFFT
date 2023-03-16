@@ -44,11 +44,11 @@
 
 This repository contains the source code of the paper **FOURIER TRANSFORM OF PERCOLL GRADIENTS BOOSTS CNN CLASSIFICATION OF HEREDITARY HEMOLYTIC ANEMIAS** by *Ario Sadafi* *, *Lucia Moya-Sans* *, *Asya Makhro*, *Leonid Livshits*, *Nassir Navab*, *Anna Bogdanova*, *Shadi Albarqouni*, and *Carsten Marr* from 2021 IEEE 18th International Symposium on Biomedical Imaging (ISBI).
 
-### Abstract
+## Abstract
 
 Hereditary hemolytic anemias are genetic disorders that affect the shape and density of red blood cells. Genetic tests currently used to diagnose such anemias are expensive and unavailable in the majority of clinical labs. Here, we propose a method for identifying hereditary hemolytic anemias based on a standard biochemistry method, called Percoll gradient, obtained by centrifuging a patient's blood. Our hybrid approach consists on using spatial data-driven features, extracted with a convolutional neural network and spectral handcrafted features obtained from fast Fourier transform. We compare late and early feature fusion with AlexNet and VGG16 architectures. AlexNet with late fusion of spectral features performs better compared to other approaches. We achieved an average F1-score of 88% on different classes suggesting the possibility of diagnosing of hereditary hemolytic anemias from Percoll gradients. Finally, we utilize Grad-CAM to explore the spatial features used for classification.
 
-### Citation
+## Citation
 
 If you are using this code in academic research, we would be grateful if you cited our paper:
 
