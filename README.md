@@ -53,14 +53,12 @@ Hereditary hemolytic anemias are genetic disorders that affect the shape and den
 If you are using this code in academic research, we would be grateful if you cited our paper:
 
 ```bibtex
-@INPROCEEDINGS{9433788,
-  author={Sadafi, Ario and Sans, Lucía María Moya and Makhro, Asya and Livshits, Leonid and Navab, Nassir and Bogdanova, Anna and Albarqouni, Shadi and Marr, Carsten},
-  booktitle={2021 IEEE 18th International Symposium on Biomedical Imaging (ISBI)}, 
-  title={Fourier Transform of Percoll Gradients Boosts CNN Classification of Hereditary Hemolytic Anemias}, 
+@inproceedings{percol2021fourier,
+  title={Fourier transform of percoll gradients boosts CNN classification of hereditary hemolytic anemias},
+  author={Sadafi, Ario and Sans, Luc{\'\i}a Mar{\'\i}a Moya and Makhro, Asya and Livshits, Leonid and Navab, Nassir and Bogdanova, Anna and Albarqouni, Shadi and Marr, Carsten},
+  booktitle={2021 IEEE 18th International Symposium on Biomedical Imaging (ISBI)},
+  pages={966--970},
   year={2021},
-  volume={},
-  number={},
-  pages={966-970},
-  doi={10.1109/ISBI48211.2021.9433788}}
+  organization={IEEE}
 }
 ```
